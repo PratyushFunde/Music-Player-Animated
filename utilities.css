@@ -1,0 +1,60 @@
+.bdblack{
+    border: 2px solid black;
+}
+
+.bdyellow {
+    border: 2px solid #FFFF00; /* Yellow */
+}
+
+.bdred {
+    border: 2px solid #FF0000; /* Red */
+}
+
+.bdblue {
+    border: 2px solid #0000FF; /* Blue */
+}
+.bdaqua {
+    border: 2px solid aqua; /* Blue */
+}
+
+.bdgreen {
+    border: 2px solid #008000; /* Green */
+}
+
+.bdyellowgreen {
+    border: 2px solid #9ACD32; /* YellowGreen */
+}
+
+.bdviolet {
+    border: 2px solid #8A2BE2; /* Voilet */
+}
+
+.bgyellow {
+    background-color: #FFFF00; /* Yellow */
+}
+
+.bgred {
+    background-color: #FF0000; /* Red */
+}
+
+.bgblue {
+    background-color: #0000FF; /* Blue */
+}
+
+.bggreen {
+    background-color: #008000; /* Green */
+}
+
+.bgyellowgreen {
+    background-color: #9ACD32; /* YellowGreen */
+}
+
+.bgviolet {
+    background-color: #8A2BE2; /* Voilet */
+}
+
+.dfjcac{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
